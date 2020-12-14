@@ -1,0 +1,3 @@
+# SPINAT
+
+mongodb + golang + graphql
